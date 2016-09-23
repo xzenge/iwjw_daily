@@ -57,8 +57,8 @@ if __name__ == "__main__":
 
     my.user = "shixiang.sh@superjia.com"
     my.passwd = "Sx56242522"
-    my.to_list = ["376574680@qq.com", ]
-    my.cc_list = ["376574680@qq.com", ]
+    my.to_list = ["chenhuibin@superjia.com", ]
+    my.cc_list = ["chentong@superjia.com", ]
     my.doc = u"d:\daily"
     my.tag = True
     my.send()
